@@ -53,7 +53,11 @@ Para detener algún proceso, presione Ctrl+C en la consola.
 
 ### Launcher (Recomendado)
 
-Esta opción es la más recomendada porque es mucho más corta, solo debe digitar en consola:
+Esta opción es la más recomendada porque es mucho más corta, solo debe entrar a la carpeta fuente
+
+    cd src/
+    
+Y digitar en consola:
 
     ./launch.sh
  
