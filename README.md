@@ -7,13 +7,13 @@ Este repositorio fue creado en la clase de AI2022B. Contiene tres archivos, el t
 Se requiere un computador con sistema operativo Linux, python3 y ROS.
 ![ROS Development with LXD | Canonical](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/9080/Ubuntu-robotics1.jpg)
 
-## Cómo instalar?
+## ¿Cómo instalar?
 
 Para clonar el repositorio digite en consola:
 
     git clone https://github.com/SJulian25/chatterlaunch.git
 ![Git Clone Command - Studytonight](https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1623155541-103268.png)
-## Cómo correr el programa?
+## ¿Cómo correr el programa?
 
 El primer paso es ubicar la carpeta que se ha descargado con el nombre de *chatterlaunch*. Luego de click derecho sobre la carpeta y seleccione *Abrir en terminal*. Esta carpeta contiene dos archivos, el Readme que está leyendo, y otra carpeta src en donde están los ejecutables, para ingresar a ésta digite:
 
